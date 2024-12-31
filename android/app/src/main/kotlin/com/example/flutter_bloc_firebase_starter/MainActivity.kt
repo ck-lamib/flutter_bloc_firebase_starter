@@ -1,4 +1,4 @@
-package com.example.flutter_bloc_firebase_starter
+package com.example.flutterBlocFirebaseStarter
 
 import io.flutter.embedding.android.FlutterActivity
 
